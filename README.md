@@ -1,47 +1,64 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
-## Hi, I'm Lucas Trindade
+## Hi, I'm Lucas Trindade 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTrindadeDev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTrindadeDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm a brazilian software developer with expertise in front-end development with more than 8 years of experience (just a few more months to achieve 9). I really like to study other technologies, so my knowledgement isn't limited to front-end, but back-end, APIs, cloud and others as well.
+I'm a brazilian software developer with expertise in front-end development with more than 8 years of experience (just a few more months to achieve 9). I am very passionate about what I do and really like to study different technologies and processes, so my knowledgement isn't limited to front-end, but back-end, APIs, cloud and others as well.
 
-## Currently Studying
+## Currently Studying 📚
 
 I'm currently studying cloud technologies and processes, such as AWS, Kubernetes and Terraforming to have a solid knowledgment about scalling, observability and maintenance. I'm studying about NestJs and Python as well, to grow more as a back-end and software developer.
 But life is always changing, so I like to keep myself updated about the technologies that I already know and the ones that I want to study.
 
-## My Stacks
+## My Technologies Stack 🛠
 
-#### Dominate and work daily
+#### I dominate and work daily with it
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" />
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <a href="https://www.typescriptlang.org/" title="Typescript">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px" />
+  </a>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px" />
+  </a>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40" />
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" />
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
+  <a href="https://redux.js.org/" title="Redux">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px">
+  </a>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="21px" height="21px" />
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px" />
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  <a href="https://www.w3.org/TR/html5/" title="HTML5">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px" />
+  </a>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <a href="https://www.w3.org/TR/CSS/" title="CSS3">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px" />
+  </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /> -->
 </div>
 
-#### I have a solid knowledge of this but I don't use it daily
+#### I have a solid knowledge about this but I don't use it daily
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40 "/>
+  <a href="https://wordpress.org/" title="WordPress">
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/wordpress-icon.svg" alt="WordPress" width="21px" height="21px" />
+  </a>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" />
 
@@ -69,7 +86,7 @@ But life is always changing, so I like to keep myself updated about the technolo
           
 </div>
 
-#### I have a basic knowledge of this
+#### I have a basic knowledge about this
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
   
