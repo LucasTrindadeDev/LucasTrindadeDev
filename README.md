@@ -10,7 +10,7 @@ Currently I'm looking for a new opportunity as a developer, on a company that I 
 
 #### How to reach me
 <a href="https://www.linkedin.com/in/lucas-trindade-dev/" title="LinkedIn">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:trindade.lucasferreira@gmail.com" title="E-mail">
