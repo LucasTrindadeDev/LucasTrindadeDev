@@ -8,17 +8,17 @@ I'm a brazilian software developer with expertise in front-end development with 
 
 Currently I'm looking for a new opportunity as a developer, on a company that I could add and grow, that supports its employees to learn more and face new challenges.
 
-#### How to reach me
+#### How to reach me 📱
 <a href="https://www.linkedin.com/in/lucas-trindade-dev/" title="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:trindade.lucasferreira@gmail.com" title="E-mail">
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/LucasTrindadeDev" title="GitHub">
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 ## Currently Studying 📚
@@ -162,17 +162,11 @@ But life is always changing, so I like to keep myself updated about the technolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="MacOS" width="40px" height="40px" />
 </div>
 
-<!--
-**LucasTrindadeDev/LucasTrindadeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fun fact about me 🎮
 
-Here are some ideas to get you started:
+Ever since I'm a child, I like reading manga and watching anime (which is a hobby that have been persisting across my entire life). But, when I played Dragon Quest VIII: Journey of the cursed King on the PS2, I decided that I wanted to be a mangaka, to create a history, world and characters that I wanted to be as good as the game that changed my life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The years have passed and I'm not a mangaka (yet), but I have found a new passion about creating something that would reach people (and they will somewhat read it, too). My goal is to balance my work as a developer (which I really like and would like to do until I retire) with my dream of becoming a writer and a mangaka.
+
+<img src="https://sm.ign.com/t/ign_nordic/review/d/dragon-que/dragon-quest-viii-journey-of-the-cursed-king-review_fe92.1200.jpg" alt="Dragon Quest VIII: Journey of the cursed King" width="100%" />
+<caption>My favorite game of all time and the game that changed my life</caption>
